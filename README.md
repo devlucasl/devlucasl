@@ -1,10 +1,10 @@
-<h2 align="left">Olá, Meu nome é Lucas Gabriel!</h2>
+<h2 align="left"></h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-Gabrielcs&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="155" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas-Gabrielcs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="154" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-Gabrielcs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas-Gabrielcs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -21,10 +21,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="30" alt="github logo"  />
 </div>
 
 ###
@@ -39,10 +35,21 @@
   <a href="https://www.linkedin.com/in/lucas-gabriel-9b254b309/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="https://discord.com/channels/@me" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
 </div>
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=2obdc00plz3ld0bnmg8xc81a1)
+<img src="https://raw.githubusercontent.com/Lucas-Gabrielcs/Lucas-Gabrielcs/output/snake.svg" alt="Snake animation" />
 
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/Luska G. ">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Luska%20G.%20&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
