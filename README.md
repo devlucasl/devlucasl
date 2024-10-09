@@ -42,14 +42,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Lucas-Gabrielcs/Lucas-Gabrielcs/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Luska G. ">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Luska%20G.%20&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=2obdc00plz3ld0bnmg8xc81a1)
 
 ###
