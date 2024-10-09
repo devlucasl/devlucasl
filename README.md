@@ -1,5 +1,6 @@
-<h2 align="center">Eu sou o Lucas Gabriel 💭</h2>
-<h3 align="center">Desenvolvedor Backend</h3>
+<h1 align="center">Eu sou o Lucas Gabriel 💭</h1>
+<h2 align="center">Desenvolvedor Backend</h2>
+<h4 align="center">Sou estudante de ADS, tenho foco no desenvolvimento backend e desejo expandir meus conhecimentos em outras linguagens e tecnologias.</h4>
 
 ###
 
