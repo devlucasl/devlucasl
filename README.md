@@ -1,4 +1,4 @@
-<h2 align="center">Hello World! Meu nome é Lucas Gabriel!</h2>
+<h2 align="center">Eu sou o Lucas Gabriel 💭</h2>
 <h3 align="center">Desenvolvedor Backend</h3>
 
 ###
