@@ -45,4 +45,4 @@
 ###
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=2obdc00plz3ld0bnmg8xc81a1)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=2obdc00plz3ld0bnmg8xc81a1&count={count})
+
