@@ -31,7 +31,7 @@
   <a href="https://www.instagram.com/lucasgcs._/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://mail.google.com/mail/u/1/?ogbl#inbox" target="_blank">
+  <a href="mailto:lucasgcsousa2005@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/lucas-gabriel-9b254b309/" target="_blank">
