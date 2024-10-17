@@ -1,6 +1,6 @@
-<h1 align="left">Hi! Welcome to my profile! I´m Lucas Gabriel 👋</h1>
-<h2 align="left">Developer Backend</h2>
-<h4 align="left">Estudante de Análise e Desenvolvimento de Sistemas. Tenho foco no backend e desejo expandir meus conhecimentos em outras linguagens e tecnologias.  </h4>
+<h1 align="center">Hi! Welcome to my profile! I´m Lucas Gabriel 👋</h1>
+<h2 align="center">Developer Backend</h2>
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas. Tenho foco no backend e desejo expandir meus conhecimentos em outras linguagens e tecnologias.  <p>
 
 ###
 
@@ -10,8 +10,8 @@
 </div>
 
 ###
-
-<h2>My Stack💻</h2>
+ 
+<h2>My Stack 💻</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="60" alt="javascript logo"  />
   <img width="12" />
@@ -27,7 +27,7 @@
 </div>
 
 ###
-<h2>Database💾</h2> 
+<h2>Database 💾</h2> 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
 </div>
@@ -35,7 +35,7 @@
 ###
 
 ###
-<h2>Contact💬</h2>
+<h2>Contact 💬</h2>
 <div align="left">
   <a href="https://www.instagram.com/lucasgcs._/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
