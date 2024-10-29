@@ -1,6 +1,6 @@
 <h1 align="center">Hi! Welcome to my profile! I´m Lucas Gabriel 👋</h1>
 <h2 align="center">Developer Backend</h2>
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas. Tenho foco no backend e desejo expandir meus conhecimentos em outras linguagens e tecnologias.  <p>
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas. Tenho foco principalmente no backend e desejo sempre expandir meus conhecimentos em outras linguagens e tecnologias.<p>
 
 ###
 
