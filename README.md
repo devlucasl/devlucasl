@@ -1,13 +1,13 @@
-<h1 align="center">Hi! Welcome to my profile! I´m Lucas Gabriel 👋</h1>
-<h2 align="center">Developer Backend</h2>
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas. Tenho foco principalmente no backend e desejo sempre expandir meus conhecimentos em outras linguagens e tecnologias.<p>
+<h1 align="left">Hello! What's up! I´m Lucas Gabriel 👋</h1>
+<h2 align="left">Back-end Developer</h2>
+<p align="left">Estudante de Análise e Desenvolvimento de Sistemas. Tenho foco principalmente no backend e desejo sempre expandir meus conhecimentos em outras linguagens e tecnologias.<p>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucas-Gabrielcs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true&order=1" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas-Gabrielcs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=true&order=2" height="160" alt="languages graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devlucasl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="172" alt="languages graph"  />
 </div>
+
 
 ###
  
