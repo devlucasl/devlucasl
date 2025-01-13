@@ -1,4 +1,4 @@
-<h1 align="left">Hello! What's up! I´m Lucas Gabriel 👋</h1>
+<h1 align="left"> Lucas Gabriel </h1>
 <h2 align="left">Back-end Developer</h2>
 <p align="left">Estudante de Análise e Desenvolvimento de Sistemas. Tenho foco principalmente no backend e desejo sempre expandir meus conhecimentos em tecnologia.<p>
 
