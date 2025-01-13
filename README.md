@@ -1,6 +1,6 @@
 <h1 align="left"> Lucas Gabriel </h1>
 <h2 align="left">Back-end Developer</h2>
-<p align="left">Estudante de Análise e Desenvolvimento de Sistemas. Tenho foco principalmente no backend e desejo sempre expandir meus conhecimentos em tecnologia.<p>
+<p align="left">Estudante de Análise e Desenvolvimento de Sistemas. Desenvolvedor com foco no backend e expandir tecnologias.<p>
 
 ###
 
