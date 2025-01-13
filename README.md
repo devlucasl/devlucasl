@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devlucasl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="172" alt="languages graph"  />
 </div>
 <div align="left">
- <a href="https://github.com/Lucas-Gabrielcs" target="_blank">
+ <a href="https://github.com/devlucasl" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/lucas-gabriel-9b254b309/" target="_blank">
