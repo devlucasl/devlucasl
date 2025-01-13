@@ -1,6 +1,9 @@
 <h1 align="left">Lucas Gabriel </h1>
 
 <div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devlucasl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="172" alt="languages graph"  />
+</div>
+<div align="left">
  <a href="https://github.com/Lucas-Gabrielcs" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -17,4 +20,6 @@
 <p>Back-end Developer</p>
 
 <p>Java | Python | Javascript </p>
+
+
 
