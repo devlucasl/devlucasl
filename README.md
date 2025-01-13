@@ -18,5 +18,3 @@
 
 <p>Java | Python | Javascript </p>
 
-###
-
