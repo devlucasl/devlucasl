@@ -17,4 +17,4 @@ Java | Python | Javascript
 
 
 <h4>Database 💾 </h4>
-SQL/MySQL
+SQL/MySQL | PostgreSQL
