@@ -13,7 +13,7 @@ Back-end Developer
 
 <h4>Stack 💻 </h4>
 
-Java | Python | Javascript
+Java | Python | Docker |  
 
 
 <h4>Database 💾 </h4>
