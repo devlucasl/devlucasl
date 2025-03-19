@@ -28,5 +28,4 @@
  ![MySQL](https://img.shields.io/badge/mysql-%231A1918.svg?style=for-the-badge&logo=mysql&logoColor=white)
  ![Postgres](https://img.shields.io/badge/postgres-%231A1918.svg?style=for-the-badge&logo=postgresql&logoColor=white)
  
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
-</div>
+
