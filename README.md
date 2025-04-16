@@ -13,14 +13,14 @@
 
 <h3> - Stack 💻</h3>
 
-
 ![Java](https://img.shields.io/badge/java-%231A1918.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%231A1918?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Spring](https://img.shields.io/badge/spring-%231A1918.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Maven](https://img.shields.io/badge/apachemaven-%231A1918.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%231A1918.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-%231A1918.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%231A1918.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-%231A1918?style=for-the-badge&logo=windows&logoColor=white)
+
 #
 
 <h3> - Database 💾 </h3>
