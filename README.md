@@ -1,7 +1,9 @@
 
-<h1 align="center"> Lucas Gabriel | Back-end Development & Data Science👨🏻‍💻</h1>
-<p align="center">
-  <em>· 🇧🇷 based in Brasília - df</em>
+<h1 align="center"> Lucas Gabriel 👨🏻‍💻</h1>
+<h2 align="center"> 𝖡𝖺𝖼𝗄-𝖾𝗇𝖽 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝗆𝖾𝗇𝗍 & 𝖣𝖺𝗍𝖺 𝖲𝖼𝗂𝖾𝗇𝖼𝖾</h2>
+<p align="center">  
+  <em>🇧🇷 based in Brasília - df</em>
+  
 </p>
 <div>
 <a href="https://www.instagram.com/lucasgcs._/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
