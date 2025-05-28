@@ -1,17 +1,20 @@
-# Lucas Gabriel | Back-end Developer 👨🏻‍💻
 
-
+<h1 align="center"> Lucas Gabriel | Back-end Development & Data Science👨🏻‍💻</h1>
+<p align="center">
+  <em>· 🇧🇷 based in Brasília - df</em>
+</p>
 <div>
 <a href="https://www.instagram.com/lucasgcs._/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:lucasgcsousa2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/lucas-gabriel-9b254b309/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devlucasl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=vision-friendly-dark&hide_border=true&order=2" height="137" alt="languages graph"  />
 </div>
 
 
-<h3> - Stack 💻</h3>
+<h3> - 𝖡𝖺𝖼𝗄𝖾𝗇𝖽 💻 </h3>
 
 ![Java](https://img.shields.io/badge/java-%231A1918.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%231A1918?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -19,13 +22,23 @@
 ![Maven](https://img.shields.io/badge/apachemaven-%231A1918.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%231A1918.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-%231A1918.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%231A1918.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-#
+---
+<h3> - 𝖣𝖺𝗍𝖺 𝖲𝖼𝗂𝖾𝗇𝖼𝖾 📊 </h3>
 
-<h3> - Database 💾 </h3>
+![Python](https://img.shields.io/badge/python-%231A1918?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%231A1918.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%231A1918.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%231A1918.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%231A1918.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-%231A1918.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+---
+<h3> - 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾 💾 </h3>
 
  ![MySQL](https://img.shields.io/badge/mysql-%231A1918.svg?style=for-the-badge&logo=mysql&logoColor=white)
  ![Postgres](https://img.shields.io/badge/postgres-%231A1918.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+ 
+
  
 
