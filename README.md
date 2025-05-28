@@ -23,7 +23,7 @@
 ![Docker](https://img.shields.io/badge/docker-%231A1918.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-%231A1918.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
----
+
 <h3> - 𝖣𝖺𝗍𝖺 𝖲𝖼𝗂𝖾𝗇𝖼𝖾 📊 </h3>
 
 ![Python](https://img.shields.io/badge/python-%231A1918?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -33,7 +33,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%231A1918.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%231A1918.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
 
----
+
 <h3> - 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾 💾 </h3>
 
  ![MySQL](https://img.shields.io/badge/mysql-%231A1918.svg?style=for-the-badge&logo=mysql&logoColor=white)
