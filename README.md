@@ -3,18 +3,6 @@
 <h2 align="center"> 𝖡𝖺𝖼𝗄-𝖾𝗇𝖽 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝗆𝖾𝗇𝗍 & 𝖣𝖺𝗍𝖺 𝖲𝖼𝗂𝖾𝗇𝖼𝖾</h2>
 <p align="center">  
   <em>🇧🇷 based in Brasília - df</em>
-  
-</p>
-<div>
-<a href="https://www.instagram.com/lucasgcs._/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:lucasgcsousa2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/lucas-gabriel-9b254b309/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devlucasl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=vision-friendly-dark&hide_border=true&order=2" height="137" alt="languages graph"  />
-</div>
-
 
 <h3> - 𝖡𝖺𝖼𝗄𝖾𝗇𝖽 💻 </h3>
 
@@ -40,7 +28,17 @@
 
  ![MySQL](https://img.shields.io/badge/mysql-%231A1918.svg?style=for-the-badge&logo=mysql&logoColor=white)
  ![Postgres](https://img.shields.io/badge/postgres-%231A1918.svg?style=for-the-badge&logo=postgresql&logoColor=white)
- 
+
+ </p>
+<div>
+<a href="https://www.instagram.com/lucasgcs._/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:lucasgcsousa2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/lucas-gabriel-9b254b309/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devlucasl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=vision-friendly-dark&hide_border=true&order=2" height="137" alt="languages graph"  />
+</div>
 
  
 
