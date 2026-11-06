@@ -1,7 +1,7 @@
  
 <h1 align="center">👨🏻‍💻 Lucas Gabriel</h1>
 <p align="center">
-  <em>Software Engineer & Data Scientist · 🇧🇷 Brasília ·</em>
+  <em>Software Engineer & Data Science · 🇧🇷 Brasília ·</em>
 </p>
 
 <p align="center">
