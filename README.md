@@ -12,7 +12,6 @@
 <p align="center">
   <a href = "mailto:lucasgcsousa2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/lucasgcss/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </a>
 </p>
 
 
